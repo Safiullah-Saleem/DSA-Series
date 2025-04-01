@@ -72,6 +72,7 @@ except ValueError:
     print("Error: 'apple' is not in the list!")  # 🛑 Handle the error
 
 
+
 # Count how many times "dog" appears in ["cat", "dog", "dog", "fish"].
 sum_Chk = ["cat", "dog", "dog", "fish"]
 total_Chk = sum_Chk.count("dog")  # ✅ Simply count occurrences
